@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434474651224",
+    "project_id": "memory-box-f6b84",
+    "storage_bucket": "memory-box-f6b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434474651224:android:f907ea9ab9091b6337442d",
+        "android_client_info": {
+          "package_name": "com.example.hackharvard21"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKuPcXwZE8vrmZoimPMBhqbAkCStfpVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
